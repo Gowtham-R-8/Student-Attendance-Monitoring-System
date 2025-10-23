@@ -1,4 +1,4 @@
-# 🧑‍🏫 Student Attendance Monitoring System – C Program
+🧑‍🏫 **Student Attendance Monitoring System – C Program**
 
 ## 🎯 Objective
 
@@ -34,9 +34,3 @@ A **singly linked list** is used where each node represents one attendance entry
 | `displayByDate()` | Shows all attendance for a specific date |
 | `displayReverse()` | Displays records in reverse |
 | `cloneList()` | Creates a clone of the list for separate admin review |
-
-## 🧪 Compilation & Execution
-
-### 🔧 Compile:
-```bash
-gcc attendance_system.c -o attendance_system
